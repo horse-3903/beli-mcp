@@ -1,0 +1,10 @@
+.env
+*state*.json
+*.apk
+*.apkm
+*.zip
+__pycache__/
+__pycache__/
+*.egg-info/
+build/
+.env
